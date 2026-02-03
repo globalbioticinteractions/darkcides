@@ -8,7 +8,8 @@
       "@language" : "en"
     } ],
     "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
-    "url" : "https://figshare.com/ndownloader/files/34091945",
+    "_url" : "https://figshare.com/ndownloader/files/34091945",
+    "url" : "Dataset%204.csv",
     "dcterms:bibliographicCitation" : "Tanalgo, Krizler; Tabora, John Aries G.; Oliveira, Hernani Fernandes Magalhães; Haelewaters, Danny; Beranek, Chad T.; Otálora-Ardila, Aída; et al. (2021). Metadata for: DarkCideS 1.0, a global database for bats in karsts and caves. figshare. Dataset. https://doi.org/10.6084/m9.figshare.16413405.v4",
     "delimiter" : ",",
     "headerRowCount" : 1,
